@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72680779925",
+    "project_id": "profile-app-22177",
+    "storage_bucket": "profile-app-22177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72680779925:android:146abed173eea823672b9c",
+        "android_client_info": {
+          "package_name": "com.nikkik.create_profile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72680779925-capbcf1ulm8lolm02ge28f0hak3o7cmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXyrwMwYT3nOkwWOOQAQafGcx3pax0E64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72680779925-capbcf1ulm8lolm02ge28f0hak3o7cmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
